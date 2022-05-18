@@ -1,22 +1,22 @@
 [
   {
     "name": "Frontend",
-    "url": "https://app.niftyvalue.com/discover",
+    "url": "https://app.niftyvalue.com",
     "icon": "https://favicons.githubusercontent.com/app.niftyvalue.com",
     "slug": "frontend",
-    "status": "down",
-    "uptime": "99.81%",
-    "uptimeDay": "99.81%",
-    "uptimeWeek": "99.81%",
-    "uptimeMonth": "99.81%",
-    "uptimeYear": "99.81%",
-    "time": 629,
-    "timeDay": 629,
-    "timeWeek": 629,
-    "timeMonth": 629,
-    "timeYear": 629,
+    "status": "up",
+    "uptime": "93.24%",
+    "uptimeDay": "93.24%",
+    "uptimeWeek": "93.24%",
+    "uptimeMonth": "93.24%",
+    "uptimeYear": "93.24%",
+    "time": 540,
+    "timeDay": 540,
+    "timeWeek": 540,
+    "timeMonth": 540,
+    "timeYear": 540,
     "dailyMinutesDown": {
-      "2022-05-18": 0
+      "2022-05-18": 13
     }
   },
   {
@@ -24,18 +24,20 @@
     "url": "https://staging.gql.api.niftyvalue.com/v1/graphql",
     "icon": "https://favicons.githubusercontent.com/staging.gql.api.niftyvalue.com",
     "slug": "graph-ql-api",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.93%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.93%",
     "time": 354,
     "timeDay": 354,
     "timeWeek": 354,
     "timeMonth": 354,
     "timeYear": 354,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-18": 0
+    }
   },
   {
     "name": "Discovery API",
@@ -43,16 +45,16 @@
     "icon": "https://favicons.githubusercontent.com/artdiscovery.api.niftyvalue.com",
     "slug": "discovery-api",
     "status": "up",
-    "uptime": "90.42%",
-    "uptimeDay": "90.42%",
-    "uptimeWeek": "90.42%",
-    "uptimeMonth": "90.42%",
-    "uptimeYear": "90.42%",
-    "time": 4418,
-    "timeDay": 4418,
-    "timeWeek": 4418,
-    "timeMonth": 4418,
-    "timeYear": 4418,
+    "uptime": "91.13%",
+    "uptimeDay": "91.13%",
+    "uptimeWeek": "91.13%",
+    "uptimeMonth": "91.13%",
+    "uptimeYear": "91.13%",
+    "time": 3444,
+    "timeDay": 3444,
+    "timeWeek": 3444,
+    "timeMonth": 3444,
+    "timeYear": 3444,
     "dailyMinutesDown": {
       "2022-05-18": 17
     }
@@ -68,11 +70,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3308,
-    "timeDay": 3308,
-    "timeWeek": 3308,
-    "timeMonth": 3308,
-    "timeYear": 3308,
+    "time": 3170,
+    "timeDay": 3170,
+    "timeWeek": 3170,
+    "timeMonth": 3170,
+    "timeYear": 3170,
     "dailyMinutesDown": {}
   }
 ]
