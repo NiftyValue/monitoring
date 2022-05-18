@@ -4,7 +4,7 @@ repo: monitoring # The name of this repository
 
 sites:
   - name: Frontend
-    url: https://app.niftyvalue.com/discover
+    url: https://app.niftyvalue.com
   - name: GraphQL API
     url: https://staging.gql.api.niftyvalue.com/v1/graphql
     method: POST
