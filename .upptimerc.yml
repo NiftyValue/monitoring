@@ -5,6 +5,10 @@ repo: monitoring # The name of this repository
 sites:
   - name: Frontend
     url: https://app.niftyvalue.com/discover
+  - name: GraphQL API
+    url: https://staging.gql.api.niftyvalue.com/v1/graphql
+    method: POST
+    body: '{"query":"{artwork_metrics(limit: 1) {url title preview nifty_value_usd creator current_owner}}"}'
   - name: Discovery API
     url: https://artdiscovery.api.niftyvalue.com/recs/api/v1.0/recs?artworks_pos=11,92&artworks_neg=7152
   - name: Valuation API
