@@ -47,9 +47,9 @@
     "url": "https://artdiscovery.api.niftyvalue.com/recs/api/v1.0/recs?artworks_pos=11,92&artworks_neg=7152",
     "icon": "https://favicons.githubusercontent.com/artdiscovery.api.niftyvalue.com",
     "slug": "discovery-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.54%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.54%",
     "uptimeMonth": "99.54%",
     "uptimeYear": "99.54%",
@@ -59,6 +59,7 @@
     "timeMonth": 3126,
     "timeYear": 3126,
     "dailyMinutesDown": {
+      "2022-05-23": 0,
       "2022-05-20": 16,
       "2022-05-18": 17
     }
