@@ -1,7 +1,7 @@
 url: https://artdiscovery.api.niftyvalue.com/recs/api/v1.0/recs?artworks_pos=11,92&artworks_neg=7152
 status: up
 code: 200
-responseTime: 16510
-lastUpdated: 2022-06-03T23:02:22.029Z
+responseTime: 21425
+lastUpdated: 2022-06-04T23:04:03.318Z
 startTime: Wed May 18 2022 10:26:33 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
