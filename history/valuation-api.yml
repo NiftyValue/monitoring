@@ -1,7 +1,7 @@
 url: https://artvaluation.api.niftyvalue.com/price/api/v1.0/predictions?tokens=2,29
 status: up
 code: 200
-responseTime: 2813
-lastUpdated: 2022-06-11T14:32:08.802Z
+responseTime: 2251
+lastUpdated: 2022-06-11T23:02:08.523Z
 startTime: Wed May 18 2022 10:26:34 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
